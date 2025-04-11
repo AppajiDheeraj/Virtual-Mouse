@@ -71,7 +71,7 @@ Control your mouse using just your hand! This Python project uses **MediaPipe**,
 
 - Screen mapping and movement smoothing for smooth interaction.
 
-= Real-time gesture mode switching with cooldowns and thresholds.
+- Real-time gesture mode switching with cooldowns and thresholds.
 
 ---
 
